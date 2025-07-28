@@ -9,6 +9,6 @@ These charts contextualise information about people experiencing imprisonment in
 
 ## How to run this code
 
-The syntax in this repository was written in the R programming language.
+The script in this repository, **population_stats.R**, was written in the R programming language. Running this script will read in data from the /data folder and output three charts to the /output folder.
 
 It is recommended that you run the code chunk-by-chunk in an Interactive Development Environment (IDE) such as [RStudio Desktop](https://posit.co/download/rstudio-desktop/), in order to read the comments in-line and view the outputs in real time.
